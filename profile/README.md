@@ -1,6 +1,6 @@
 # UniCourse
 
-![UniCourse Logo](https://raw.githubusercontent.com/UniCourse-TW/.github/main/assets/images/banner.svg)
+![UniCourse Banner](https://unicourse-tw.github.io/Public-Assets/banner/UniCourse_banner.svg)
 
 UniCourse is a platform for NTNU students to easily find the best courses that match their interests.
 
